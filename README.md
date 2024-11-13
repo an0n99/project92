@@ -1,0 +1,1 @@
+A prototype for a system to analyse trading logs and identify key levels, including areas of potential market underpricing of options, using the BAW approximation model for low-volatility and Monte-Carlo simulations for high volatility enviroments
